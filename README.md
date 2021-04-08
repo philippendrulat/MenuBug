@@ -10,8 +10,8 @@ To reproduce:
 
 Steps to recreate this repo:
 * ionic start sidemenu
-* remove the split pane around the menu in app.component.html
-* Create the gesture in [src/app/folder/gesture.directive.ts]
+* remove the split pane around the menu in [AppComponent](src/app/app.component.html)
+* Create the gesture in [src/app/folder/gesture.directive.ts](GestureDirective)
 * register the gesture in [src/app/folder/folder.mudule.ts]
 * add the gesture to the div with the id container in [src/app/folder/folder.page.html]
 * enlarge the div in folder.page.scss and stick to upper screen
