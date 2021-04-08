@@ -14,4 +14,4 @@ Steps to recreate this repo:
 * Create the gesture in [GestureDirective](src/app/folder/gesture.directive.ts)
 * register the gesture in [FolderModule](src/app/folder/folder.module.ts)
 * add the gesture to the div with the id container in [FolderPage](src/app/folder/folder.page.html)
-* enlarge the div in [FolderPage.scss](src/app/folder/folder.page.scss) and stick to upper screen
+* enlarge the div in [FolderPage.scss](src/app/folder/folder.page.scss), stick to upper screen and make grey
