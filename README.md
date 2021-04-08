@@ -5,7 +5,7 @@ To reproduce:
 * `npm start`
 * Go to http://localhost:4200
 * open developer console
-* The gesture is registered on the upper half of the screen
+* The gesture is registered on the upper half of the screen (grey background)
 * If you try to swipe open the menu on the upper half of the screen, it won't open. The lower half works
 
 Steps to recreate this repo:
